@@ -44,7 +44,7 @@ Three slicers control every chart and number on the dashboard: **Year**, **Segme
 
 ### 3. Sales and Profit Analysis by Month
 
-Bars show profit and the area shows sales for each month (all years combined).
+Blue bars show sales and the orange area shows profit for each month (all years combined).
 
 ![Sales and Profit Analysis](screenshots/sales_and_profit_analysis.png)
 
@@ -90,7 +90,7 @@ Technology and Office Supplies together make up about 94% of all profit.
 
 Donut chart showing each category's share of total sales.
 
-![Category Wise Sales Percentage](screenshots/catergory_wise_sales_percentage.png)
+![Category Wise Sales Percentage](screenshots/category_wise_sales_percentage.png)
 
 - Technology: 36.40%
 - Furniture: 32.30%
