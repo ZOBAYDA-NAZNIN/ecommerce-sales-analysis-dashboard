@@ -16,7 +16,7 @@ The goal of this project is to turn raw sales data (9,994 order lines) into a cl
 
 Full dashboard with all four years selected and no other filters applied:
 
-![Full Dashboard](sales_analysis_dashboard.png)
+![Full Dashboard](screenshots/sales_analysis_dashboard.png)
 
 ## Key Numbers (2011-2014)
 
@@ -34,19 +34,19 @@ Full dashboard with all four years selected and no other filters applied:
 
 Five cards show Sales, Profit, Quantity, Orders and Profit Margin. Each card has a small trend line and a growth figure compared with the previous year.
 
-![KPI Cards](kpi.png)
+![KPI Cards](screenshots/kpi.png)
 
 ### 2. Filters (Slicers)
 
 Three slicers control every chart and number on the dashboard: **Year**, **Segment** (Consumer, Corporate, Home Office) and **Region** (Central, East, South, West).
 
-![Filters](filters.png)
+![Filters](screenshots/filters.png)
 
 ### 3. Sales and Profit Analysis by Month
 
 Bars show profit and the area shows sales for each month (all years combined).
 
-![Sales and Profit Analysis](sales_and_profit_analysis.png)
+![Sales and Profit Analysis](screenshots/sales_and_profit_analysis.png)
 
 - November is the highest sales month ($349K), followed by December ($332K) and September ($310K).
 - December has the highest profit ($43.4K).
@@ -57,7 +57,7 @@ Bars show profit and the area shows sales for each month (all years combined).
 
 Compares 2014 with 2013 for each KPI.
 
-![Year over Year Growth](YOY_growth.png)
+![Year over Year Growth](screenshots/YOY_growth.png)
 
 | Metric | 2013 | 2014 | Growth |
 |---|---|---|---|
@@ -75,7 +75,7 @@ Orders and quantity grew faster than sales, and profit grew slower than sales. T
 
 Waterfall chart showing how each category adds to total profit.
 
-![Category Wise Profit](category_wise_profit.png)
+![Category Wise Profit](screenshots/category_wise_profit.png)
 
 | Category | Profit |
 |---|---|
@@ -90,7 +90,7 @@ Technology and Office Supplies together make up about 94% of all profit.
 
 Donut chart showing each category's share of total sales.
 
-![Category Wise Sales Percentage](catergory_wise_sales_percentage.png)
+![Category Wise Sales Percentage](screenshots/catergory_wise_sales_percentage.png)
 
 - Technology: 36.40%
 - Furniture: 32.30%
@@ -100,7 +100,7 @@ Sales are spread fairly evenly across the three categories, but profit is not. F
 
 ### 7. Top 5 Sub-Categories by Sales
 
-![Top 5 Sub-Categories](top_5_category.png)
+![Top 5 Sub-Categories](screenshots/top_5_category.png)
 
 | Sub-Category | Sales |
 |---|---|
@@ -116,7 +116,7 @@ These five sub-categories bring in about $1.29M, which is 56% of total sales.
 
 Map chart showing sales by state.
 
-![State Wise Sales](state_wise_sales.png)
+![State Wise Sales](screenshots/state_wise_sales.png)
 
 - California leads with $457,688 (about 20% of sales).
 - New York is second with $310,876, and Texas is third with $170,188.
