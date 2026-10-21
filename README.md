@@ -90,7 +90,7 @@ Technology and Office Supplies together make up about 94% of all profit.
 
 Donut chart showing each category's share of total sales.
 
-![Category Wise Sales Percentage](catgory_wise_sales_percentage.png)
+![Category Wise Sales Percentage](category_wise_sales_percentage.png)
 
 - Technology: 36.40%
 - Furniture: 32.30%
